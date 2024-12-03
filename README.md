@@ -1,5 +1,5 @@
 ### ¡Hola! Soy Felipe Mendez 
-Profesional en Ingeniería de Sistemas y un apasionado desarrollador de aplicaciones Android con más de 1 de experiencia en el emocionante mundo de la programación móvil.
+Profesional en Ingeniería de Sistemas y un apasionado desarrollador de aplicaciones Android con más de 2 años de experiencia en el emocionante mundo de la programación móvil.
 
 Desde que descubrí mi interés por la tecnología móvil y Android, he estado comprometido en crear aplicaciones útiles y atractivas que mejoren la vida de las personas. Mi enfoque principal es la creación de experiencias de usuario intuitivas y agradables que se adapten a las necesidades de los usuarios, además de utilizar las mejores prácticas y manteniendo una buena arquitectura que hacen mi trabajo mantenible y escalable. Tambien he estudiado en distintos cursos y he creado varias aplicaciones móviles personales.
 
